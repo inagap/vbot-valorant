@@ -1,0 +1,5 @@
+colorama
+keyboard
+mss
+pillow
+pyautogui
